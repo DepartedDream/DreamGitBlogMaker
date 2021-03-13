@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Model\Article.cs" />
     <Compile Include="Model\Data.cs" />
+    <Compile Include="Model\Git.cs" />
     <Compile Include="Model\Music.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
